@@ -1,8 +1,3 @@
-// Enter all your detials in this file
-// Logo images
-// import logogradient from "./assets/logo.svg";
-// import logo from "./assets/logo2.svg";
-// Profile Image
 import profile from "./assets/pfpforsweportfolio.jpg";
 // Tech stack images
 import html from "./assets/techstack/html.png";
@@ -26,10 +21,10 @@ import projectImage1 from "./assets/projects/rickandmorty thumbnail .png";
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "Aldrich Gran Lapid",
+  tagline: "Product Designer x Software Engineer ",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `{About text here}`,
 };
 
 // Enter your Social Media URLs here
